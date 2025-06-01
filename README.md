@@ -91,3 +91,5 @@ Result (approx):
 | --------- | ------------------------ |
 | Latitude  | \~111.32 km (constant)   |
 | Longitude | \~111.32 × cos(latitude) |
+
+**- By Sayak Pal**
