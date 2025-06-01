@@ -92,4 +92,7 @@ Result (approx):
 | Latitude  | \~111.32 km (constant)   |
 | Longitude | \~111.32 × cos(latitude) |
 
+![Calculation Note](https://github.com/Spin1234/air_surveillance_system/blob/main/IMG_20250602_002211.jpg)[](https://github.com/Spin1234/air_surveillance_system/blob/main/IMG_20250602_002240.jpg)
+
+
 **- By Sayak Pal**
