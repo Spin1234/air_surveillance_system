@@ -2,6 +2,8 @@
 
 ### The purpose of this system is to detect any aircraft within a specified airspace range based on latitude and longitude
 
+> **Fun Fact**: All aeroplanes flying over your house, you can see the details of all those aeroplanes. Suppose you are on rooftop of your house and you are noticing lots of aeroplanes are passing your house from far above, but you can see all details of those aeroplanes from this system.
+
 We have a latitude and longitude, now we want a bounding box of R km range around the base latitude and longitude. In order to calculate the bounding box we need four points, those four points are latitude minimum, latitude maximum, longitude minimum and longitude maximum. Here is the mathematical concepts and calculations to get those four points to get the bounding box:
 
 ---
